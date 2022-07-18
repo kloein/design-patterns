@@ -6,5 +6,7 @@
     <file url="file://$PROJECT_DIR$/src/abstractfactory/example/factory/Page.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/builder/example/Greeting.html" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/builder/example/Greeting.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/facade/example/PageMaker.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/facade/example/welcome.html" charset="GBK" />
   </component>
 </project>
