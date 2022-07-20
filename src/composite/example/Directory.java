@@ -1,4 +1,4 @@
-package Composite.example;
+package composite.example;
 
 import java.util.ArrayList;
 import java.util.Iterator;

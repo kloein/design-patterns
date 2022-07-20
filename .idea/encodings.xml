@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/src/abstractfactory/example/LinkPage.html" charset="GBK" />
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/src/abstractfactory/example/LinkPage.html" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/abstractfactory/example/factory/Page.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/builder/example/Greeting.html" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/builder/example/Greeting.html" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/facade/example/PageMaker.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/facade/example/welcome.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/memento/example/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/memento/example/game/Gamer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/state/example/SafeFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/state/example/state/DayState.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/state/example/state/NightState.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/state/example/state/State.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
   </component>
 </project>

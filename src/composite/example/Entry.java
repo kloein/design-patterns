@@ -1,6 +1,6 @@
-package Composite.example;
+package composite.example;
 
-import Composite.example.exception.FileTreatMentException;
+import composite.example.exception.FileTreatMentException;
 
 public abstract class Entry {
     public abstract String getName();

@@ -8,7 +8,7 @@ public abstract class Entry implements Element{
 
     public abstract int getSize();
 
-    public Composite.example.Entry add(Composite.example.Entry entry)throws FileTreatMentException {
+    public composite.example.Entry add(composite.example.Entry entry)throws FileTreatMentException {
         throw new FileTreatMentException();
     }
 

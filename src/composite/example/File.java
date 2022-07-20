@@ -1,4 +1,4 @@
-package Composite.example;
+package composite.example;
 
 public class File extends Entry{
     private String name;
